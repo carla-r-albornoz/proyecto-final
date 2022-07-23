@@ -1,2 +1,2 @@
-# proyecto-final-UFC
+# proyecto
 Proyecto Final - Potrero Digital
